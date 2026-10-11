@@ -11,7 +11,7 @@
 *   **OS**: Ubuntu 22.04 LTS (虚拟机环境)
 *   **Middleware**: ROS 2 Humble
 *   **Language**: Python 3.10
-*   **Tools**: RViz2, Gazebo (基础了解), colcon, xacro, Git
+*   **Tools**: RViz2, Gazebo, colcon, xacro, Git
 
 ## 📂 目录结构
 
